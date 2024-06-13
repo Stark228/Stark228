@@ -3,11 +3,11 @@ I'm Sonam Pelki, an web Developer :iphone: from Bhutan who is passionate about t
 
 ## Technologies
 - Mobile application development using - **React-Native**
-- Web development - **HTML/CSS, ReactJS, Bootstrap**
-- Backend development - **Laravel, Django, ExpressJS**
-- Programming Language - **Python, PHP, Javascript**
-- Database - **MySQL, MongoDB, PostgreSQL**
-- Current Interest - **Cloud Computing**
+- Web development - **HTML/CSS, ReactJS, Bootstrap, Tailwind, Alphine**
+- Backend development - **Laravel, Django, Nodejs**
+- Programming Language - **Python, PHP, Java, Javascript**
+- Database - **MySQL, MongoDB**
+- Current Interest - **Cloud Computing and Deep Learning**
 
 ## Skills
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
