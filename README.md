@@ -3,10 +3,10 @@ I'm Sonam Pelki, an web Developer :iphone: from Bhutan who is passionate about t
 
 ## Technologies
 - Mobile application development using - **React-Native**
-- Web development - **HTML/CSS, ReactJS, Bootstrap, Tailwind, Alphine**
-- Backend development - **Laravel, Django, Nodejs**
+- Web development - **HTML/CSS, ReactJS, Bootstrap, Tailwind, Alphine, Material UI**
+- Backend development - **Laravel, Django, SpringBoot**
 - Programming Language - **Python, PHP, Java, Javascript**
-- Database - **MySQL, MongoDB**
+- Database - **MySQL, PostgreSQL, MongoDB**
 - Current Interest - **Cloud Computing and Deep Learning**
 
 ## Skills
